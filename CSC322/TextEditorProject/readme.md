@@ -11,3 +11,5 @@ I(text) : inserts (text) at the start of a line
 O(text) : inserts (text) on a new line before the input line  
 s/(text1)/(text2)/ : replaces the first occurance of (text1) with (text2)  
 d : deletes line  
+  
+Edit commands are listed in input.txt
