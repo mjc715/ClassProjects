@@ -1,4 +1,4 @@
-package prog11;
+package SearchEngineProject;
 
 import java.net.MalformedURLException;
 import java.net.URL;
