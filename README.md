@@ -6,5 +6,6 @@ CSC120 Intro to Programming:
   1. Dentistry Project: Keeps track of the status of teeth for people (type of tooth) and can remove them too.  
   2. Fleet Management Project: Keeps track of a fleet of boats where you can add expenses to each boat, add and remove, or see all boats in the collection  
   
-CSC220 Data Structures and Algorithms:  
-  1. 
+CSC322 System Programming:  
+  1. Text Editor Project: This text editor modifies the user input based on a set of commands. More specifics are in the readme for the project.  
+  2. Fibonacci Threading Project:  This project uses multi-threading and forking to calculate fibonacci numbers simultaneously.  
