@@ -9,3 +9,6 @@ CSC120 Intro to Programming:
 CSC322 System Programming:  
   1. Text Editor Project: This text editor modifies the user input based on a set of commands. More specifics are in the readme for the project.  
   2. Fibonacci Threading Project:  This project uses multi-threading and forking to calculate fibonacci numbers simultaneously.  
+  
+CSC220 Data Structures and Algorithms:
+  1. Search Engine Project: Given specific webpages, this program ranks them in order of relevance by how many other webpages they are connected to and by the contents of the webpages  
